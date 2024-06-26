@@ -258,6 +258,7 @@ form {
 .footer h1 {
     color: #ff3946;
     font-size: 45px;
+    text-align: center;
 }
 
 .menu {
@@ -374,6 +375,6 @@ form {
 
     .direction-row {
         flex-direction: column;
-        gap: 5px;
+        gap: 10px;
     }
 }
