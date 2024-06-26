@@ -210,7 +210,7 @@ nav{
         text-align: center;
     }
 }
-span {
+.formulaire>span {
     color: red;
     font-size: x-large;
 }
